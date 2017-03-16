@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/milessabin/shapeless" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GoogleCloudPlatform/cloud-bigtable-examples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/AISRV/shapeless" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/AISRV/cloud-bigtable-examples" />
   </component>
 </application>

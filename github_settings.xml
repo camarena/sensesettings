@@ -3,6 +3,5 @@
     <option name="LOGIN" value="herman@camarena.org" />
     <option name="AUTH_TYPE" value="BASIC" />
     <option name="CONNECTION_TIMEOUT" value="10000" />
-    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>
