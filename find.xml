@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sense'" />
-    <option name="defaultScopeName" value="Project 'sense'" />
-    <option name="SEARCH_SCOPE" value="Project 'sense'" />
+    <option name="customScope" value="Directory '.../utils - [utils]'" />
+    <option name="defaultScopeName" value="Directory '.../utils - [utils]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../utils - [utils]'" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
