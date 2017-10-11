@@ -28,7 +28,8 @@
   <option name="METHODS_ORDER_WEIGHT" value="7" />
   <option name="STATIC_INNER_CLASSES_ORDER_WEIGHT" value="1" />
   <option name="INNER_CLASSES_ORDER_WEIGHT" value="2" />
-  <option name="RIGHT_MARGIN" value="180" />
+  <option name="RIGHT_MARGIN" value="140" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
@@ -49,6 +50,8 @@
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+    <option name="MULTILINE_STRING_SUPORT" value="0" />
+    <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
