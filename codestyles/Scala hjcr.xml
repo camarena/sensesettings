@@ -28,7 +28,7 @@
   <option name="METHODS_ORDER_WEIGHT" value="7" />
   <option name="STATIC_INNER_CLASSES_ORDER_WEIGHT" value="1" />
   <option name="INNER_CLASSES_ORDER_WEIGHT" value="2" />
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="RIGHT_MARGIN" value="125" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
@@ -524,7 +524,6 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
