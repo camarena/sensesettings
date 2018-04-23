@@ -1,17 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.pipertmp-*;.svn;CVS;SCCS;__pycache__;_svn;" />
     <extensionMap>
-      <mapping ext="avpr" type="JSON" />
-      <mapping pattern="messages" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="nl" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
-      <mapping ext="avdl" type="PLAIN_TEXT" />
-      <mapping ext="fr" type="PLAIN_TEXT" />
-      <mapping ext="rule" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
-      <mapping ext="pi" type="Python" />
+      <mapping ext="template" type="JavaScript" />
+      <mapping pattern="OWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="MockMaker" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
