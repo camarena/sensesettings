@@ -86,11 +86,6 @@
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
-      <debugger id="scala_debugger">
-        <configuration>
-          <option name="DEBUG_DISABLE_SPECIFIC_SCALA_METHODS" value="false" />
-        </configuration>
-      </debugger>
     </debuggers>
   </component>
 </application>
