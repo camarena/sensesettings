@@ -30,9 +30,6 @@
   <option name="INNER_CLASSES_ORDER_WEIGHT" value="2" />
   <option name="RIGHT_MARGIN" value="125" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
-  <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
-  <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
   <option name="SOFT_MARGINS" value="80,125" />
@@ -80,10 +77,11 @@
   <ScalaCodeStyleSettings>
     <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
-    <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+    <option name="MULTILINE_STRING_INSERT_MARGIN_ON_ENTER" value="false" />
+    <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="false" />
     <option name="MULTILINE_STRING_SUPORT" value="0" />
     <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
   </ScalaCodeStyleSettings>
@@ -559,7 +557,6 @@
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
